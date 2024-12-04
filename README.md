@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Shaik Siddik</h1>
-<h3 align="center">Passionate Computer Applications Graduate</h3>
+<h3 align="center">Graduate Student Pursuing a Master's Degree</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-siddik&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-siddik" /> </p>
